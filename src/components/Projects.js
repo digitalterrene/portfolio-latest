@@ -14,16 +14,19 @@ export const Projects = () => {
       title: "Vertueal Inc Startup",
       description: "Design & Development",
       imgUrl: vert,
+      url:'#'
     },
     {
       title: "Keng Foundation NPO",
       description: "Software Development",
       imgUrl: kf,
+      url:'kf-gray.vercel.app'
     },
     {
       title: "RODLIP Org",
       description: "Design, Development & Content Creation",
       imgUrl: rodlip,
+      url:'rodlip-nine.vercel.app'
     },
     {
       title: "Vertueal Store",
@@ -42,11 +45,13 @@ export const Projects = () => {
       title: "Keng Foundation NPO",
       description: "Software Development",
       imgUrl: kf,
+      url:'kf-gray.vercel.app'
     },
     {
       title: "RODLIP Org",
       description: "Design, Development & Content Creation",
       imgUrl: rodlip,
+      url:'rodlip-nine.vercel.app'
     }
   ];
   const apps = [
